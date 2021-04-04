@@ -1,4 +1,4 @@
-from link_matkul import matkul
+from condition import matkul
 import json
 
 ket, matkul_sekarang = matkul()
